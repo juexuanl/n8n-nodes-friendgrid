@@ -12,7 +12,7 @@ export class FriendGrid implements INodeType {
 	description: INodeTypeDescription = {
         displayName: 'FriendGrid',
         name: 'friendGrid',
-        icon: 'file:friendGrid.svg',
+        icon: 'file:friendgrid.svg',
         group: ['transform'],
         version: 1,
         description: 'Consume SendGrid API',
